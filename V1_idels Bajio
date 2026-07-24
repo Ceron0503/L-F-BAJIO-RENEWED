@@ -92,6 +92,11 @@
       "enable" : true
     },
     {
+      "item" : "global_item_selected_background_color",
+      "value" : "#633F99",
+      "enable" : true
+    },
+    {
       "item" : "global_primary_button_text_color",
       "value" : "#FFFFFF",
       "enable" : true
