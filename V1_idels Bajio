@@ -331,13 +331,13 @@
       "enable": true
     },
     {
-      "item": "animation_s1f4",
+      "item": "animation_s1p2",
       "value": "",
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio_v2.json",
-      "url_idle": "",
+      "url_idle": "https://raw.githubusercontent.com/Ceron0503/L-F-BAJIO-RENEWED/refs/heads/main/Market.json",
       "enable": true
     },
     {
