@@ -358,24 +358,36 @@
       "item": "sound_s1f4",
       "value": "",
       "url_approve": "",
+      "url_init": "",
+      "url_remove": "",
+      "url_denied": "",
       "enable": true
     },
     {
       "item": "sound_s1p2",
       "value": "",
       "url_approve": "",
+      "url_init": "",
+      "url_remove": "",
+      "url_denied": "",
       "enable": true
     },
     {
       "item": "sound_e4_pro",
       "value": "",
       "url_approve": "",
+      "url_init": "",
+      "url_remove": "",
+      "url_denied": "",
       "enable": true
     },
     {
       "item": "sound_s1f4_pro",
       "value": "",
       "url_approve": "https://github.com/Ceron0503/L-F-BAJIO-RENEWED/blob/main/banbajio_sound.wav",
+      "url_init": "",
+      "url_remove": "",
+      "url_denied": "",
       "enable": true
     }
   ]
