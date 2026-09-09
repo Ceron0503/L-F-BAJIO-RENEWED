@@ -346,6 +346,7 @@
       "url_report": "",
       "url_insert": "",
       "url_remove": "",
+      "url_approve": "https://raw.githubusercontent.com/Ceron0503/L-F-BAJIO-RENEWED/refs/heads/main/Animacion%20BBjio.json",
       "url_loader": "https://raw.githubusercontent.com/Ceron0503/L-F-BBajio/refs/heads/main/loader_banbajio_v2.json",
       "url_idle": "",
       "enable": true
@@ -374,7 +375,7 @@
     {
       "item": "sound_s1f4_pro",
       "value": "",
-      "url_approve": "",
+      "url_approve": "https://github.com/Ceron0503/L-F-BAJIO-RENEWED/blob/main/banbajio_sound.wav",
       "enable": true
     }
   ]
